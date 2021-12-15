@@ -1,2 +1,3 @@
 # hi-world
-# purpose is to understand git eve4n more clearly
+# These are the projects I am taking up using machine learning
+
